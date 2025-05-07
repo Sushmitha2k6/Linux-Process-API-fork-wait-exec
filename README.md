@@ -43,7 +43,8 @@ int main() {
 }
 
 ```
-OUTPUT
+## OUTPUT
+
 ![ex2-1](https://github.com/user-attachments/assets/895ce297-598c-4c0b-bb57-2b69e4b47a09)
 
 C Program to create new process using Linux API system calls fork() and exit()
